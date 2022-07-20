@@ -1,0 +1,10 @@
+{"name":"Naughty",
+ "description":"Ny图标TG @ckcicn",
+ "icons":
+ [
+   {"name":"australia.png",
+    "url":"https://raw.githubusercontent.com/ckcbot/NaughtyforQuanX/main/australia.png"},
+   {"name":"china.png",
+    "url":"https://raw.githubusercontent.com/ckcbot/NaughtyforQuanX/main/china.png"}
+ ]
+ }
